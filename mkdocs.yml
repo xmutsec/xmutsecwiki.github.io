@@ -1,0 +1,5 @@
+site_name: XMUTSEC Wiki
+site_url: https://wiki.xmutsec.cn
+site_author: XMUTSEC
+theme:
+  name: material #主题
