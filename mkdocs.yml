@@ -2,6 +2,7 @@ site_name: XMUTSEC Wiki
 site_url: https://wiki.xmutsec.cn
 site_author: XMUTSEC
 site_description: Wiki project for XMUTSEC, for usage of information sharing, collection, and reference.
+copyright: 厦门理工学院信息安全协会（Xiamen University Of Technology Cyberspace Security Association） 
 theme:
   name: material #主题
   language: zh
@@ -21,3 +22,25 @@ theme:
   - search
   - minify:
     minify_html: true
+nav:
+  - 介绍:
+    - index.md
+    - award.md
+    - member.md
+  - Writeup:
+    - writeup/CISCN-CTF-Quals-2023.md
+  - Notes:
+    - posts/07cb34d3-7c51-43af-bfb2-84425b34c8f4.md
+    - posts/0fbc0fc1-39e4-47ee-9cff-ba792b068f27.md
+    - posts/131885e3-191c-40ac-af0d-79835e15d45b.md
+    - posts/6d1aa499-57ee-401b-a911-8062c6cae869.md
+    - posts/6eba13d5-1e74-4680-8a10-9c18763b6389.md
+    - posts/72c8b299-29e5-4e88-a684-7c65b3931760.md
+    - posts/86e69101-77f4-484a-ba0e-2957afabbdb6.md
+    - posts/9806f2d8-b4ad-48d3-ad34-5481b1e8e35b.md
+    - posts/a73c51fc-04d5-4aa7-bcdc-c22aa7b67512.md
+    - posts/ab21d401-10e1-4021-9936-e7154fd9ed71.md
+    - posts/b6adcea6-60ce-4f44-9389-2a06d34125d8.md
+    - posts/bb168e48-791c-4a1d-83c4-335b9db12499.md
+    - posts/dfd03705-8ad1-420f-8534-0fd4086165e7.md
+    - posts/f72cbee7-1294-46b9-92e3-49a3140255b2.md

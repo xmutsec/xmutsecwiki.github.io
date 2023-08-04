@@ -1,8 +1,8 @@
-# XMUTSEC - Hacked The Planet
+# XMUTSEC
 
 **厦门理工学院信息安全协会（XMUTSEC）** - 成立于二〇一六年陆月九日是计算机学院指导下的学术科技类社团，几位志同道合的少年人在鹭江之畔一拍即合成立了一支CTF战队CodeMonster与之同时诞生的还有圣后溪英兰德皇家幼儿园附属理工学院信息安全协会（厦门理工学院信息安全协会），协会主要研究的方向以安全类为主，此外，协会也会组织学生参加学术竞赛，举办学术交流等等。
 
-![官网LOGO](/assets/images/BIGLOGO.png)
+![官网LOGO](img/BIGLOGO.png)
 
 协会官网：[https://www.xmutsec.cn](https://www.xmutsec.cn)
 
