@@ -1,5 +1,23 @@
 site_name: XMUTSEC Wiki
 site_url: https://wiki.xmutsec.cn
 site_author: XMUTSEC
+site_description: Wiki project for XMUTSEC, for usage of information sharing, collection, and reference.
 theme:
   name: material #主题
+  language: zh
+  font:
+    text: Oswald
+    code: Consolas
+  favicon: assets/favicon.ico
+  icon:
+    logo: logo
+  features:
+  - navigation.tabs
+  - navigation.tabs.sticky
+  - search.suggest
+  - search.highlight
+  - search.share
+  plugins:
+  - search
+  - minify:
+    minify_html: true
